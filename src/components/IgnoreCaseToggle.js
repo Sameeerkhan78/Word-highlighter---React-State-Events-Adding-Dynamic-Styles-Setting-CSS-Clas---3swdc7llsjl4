@@ -7,4 +7,4 @@ export const IgnoreCaseToggle = () => {
             <input type="checkbox" id="ignore-case"/>
         </>
     )
-} 
+}
